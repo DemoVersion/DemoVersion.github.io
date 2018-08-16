@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'تجارت پنهان، ZCash و Monero - قسمت دوم پادکست'
+title: 'تجارت پنهان، ZCash و Monero'
 date: 2018-07-17 21:59:00
 imageurl: https://demoversion.github.io/public/images/p2.jpg
 file: http://archive.org/download/DemoVersionPodcast2InvisibleTradeZCashMonero/DemoVersion_Podcast_2_Invisible_Trade_ZCash_Monero.mp3
