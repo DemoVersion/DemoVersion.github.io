@@ -1,0 +1,17 @@
+title:          "DemoVersion Podcast پادکست دموورژن"
+email:          demoversionir@gmail.com
+description:    "برنامه نویسی، هوش مصنوعی، تکنولوژی"
+subtitle:       "خیلی اوقات راحت از کنار پدیده‌هایی که ممکنه آینده تکنولوژی رو شکل بدن گذر می‌کنیم، یا ممکنه اون تصورات نادرستی که رسانه‌ها در ذهن مخاطب‌ها راجع به تکنولوژی ایجاد کردند رو بپذیریم. در این پادکست سعی می‌کنیم با یک تفکر نقادانه و آینده‌نگر همه چیز رو معرفی کنیم و محک بزنیم."
+url:            "https://demoversion.github.io/"
+lang:           fa
+author:         "Hesam Haddad"
+copyright: "&#x2117; &amp; &#xA9; 2018"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: DemoVersionBlog
+github_username:  DemoVersion
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
