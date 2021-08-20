@@ -15,7 +15,7 @@
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
-			<link>{{ site.url }}</link>
+			<link>https://hesamhaddad.blog.ir</link>
 			<url>{{ site.url }}/public/images/itunes.png</url>
 			<title>{{ site.title }}</title>
 		</image>
